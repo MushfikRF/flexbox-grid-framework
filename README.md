@@ -1,7 +1,7 @@
 Flexbox Grid
 ===========
 
-Font Awesome CDN Link : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+Font Awesome CDN Link : [<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">]
 
 [flexboxgrid.com](http://flexboxgrid.com)
 
