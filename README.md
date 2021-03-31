@@ -1,8 +1,9 @@
 Flexbox Grid
 ===========
-😃 🥇 😖 FONT AWESOME CDN Link:  < link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-[flexboxgrid.com](http://flexboxgrid.com)
+The framework link: [flexboxgrid.com](http://flexboxgrid.com)  
+
+All kind of CDN  link [cdnjs.com](https://cdnjs.com)
 
 Grid based on the `flex` display property.
 
