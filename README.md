@@ -3,7 +3,7 @@ Flexbox Grid
 
 The framework link: [flexboxgrid.com](http://flexboxgrid.com)  
 
-All kind of CDN  link [cdnjs.com](https://cdnjs.com)
+All kind of CDN  link [cdnjs.com](https://cdnjs.com)   &   [jsdelivr.com](https://www.jsdelivr.com/)
 
 Grid based on the `flex` display property.
 
