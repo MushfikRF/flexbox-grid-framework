@@ -14,11 +14,23 @@
 
 6.None
 
+# ---------- -->Flex Box <--
+
+    --display: flex;
+    
+    --flex-direction:row/column
+    
+    --Align-items: center/right/left/strech/baseline
+    
+    --justify-content:center/start/end/space-between/space-around
+    
+    --children: wrap/no-wrap
+
 # ---------- --> Spacing <--
 
--->Padding:top,right,bottom,left.(px,em,rem,%)
+--padding:top,right,bottom,left.(px,em,rem,%)
 
--->Margin: top,right,bottom,left.(px,em,rem,%)
+--margin: top,right,bottom,left.(px,em,rem,%)
 
 # ------------ --> Size <--
 
